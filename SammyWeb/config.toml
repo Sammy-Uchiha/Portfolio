@@ -40,8 +40,8 @@ paginate = 8
 # Other configuration options...
 
 # Image configuration
-   author_image = "images/bots.jpg"
-   logo = "images/logo.svg"
+   author_image = ""
+   site_logo = "images/bots.jpg"
    favicon = "images/favicon.png"
 
   # Default theme
