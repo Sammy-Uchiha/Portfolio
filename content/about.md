@@ -3,10 +3,7 @@ title = "About"
 date = 2024-07-13T12:00:00+00:00
 +++
 
-{{ $image := resources.Get (print "images/" .Params.author_image) }}
-<img src="{{ $image.Permalink }}" alt="My Image">
-
-# About Me   
+# A Brief Summary 
 
 As a dedicated software developer, I thrive on the challenge of turning complex problems into elegant, functional solutions. With a passion for the latest technologies and a tireless commitment to continuous learning, I bring a unique blend of technical expertise and creative problem-solving to every project I undertake.
 

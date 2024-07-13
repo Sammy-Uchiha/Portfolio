@@ -1,5 +1,5 @@
 +++
-title = "(Hu)go Template Primer"
+title = "Hugo: A study"
 tags = ["go", "golang", "templates", "themes", "development"]
 date = 2024-07-13T12:00:00+00:00
 +++
